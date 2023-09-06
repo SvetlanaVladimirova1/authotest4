@@ -1,0 +1,7 @@
+= 2023-09-06 12:09:00 DEBUG Starting new HTTPS connection (1): test-stand.gb.ru:443
+= 2023-09-06 12:09:01 DEBUG https://test-stand.gb.ru:443 "POST /gateway/login HTTP/1.1" 200 234
+= 2023-09-06 12:09:01 DEBUG Starting new HTTPS connection (1): test-stand.gb.ru:443
+= 2023-09-06 12:09:01 DEBUG https://test-stand.gb.ru:443 "POST /api/posts HTTP/1.1" 200 269
+= 2023-09-06 12:09:01 DEBUG Created a new post
+= 2023-09-06 12:09:01 DEBUG https://test-stand.gb.ru:443 "GET /api/posts HTTP/1.1" 200 1137
+= 2023-09-06 12:09:01 DEBUG My posts description
